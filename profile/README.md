@@ -1,4 +1,4 @@
-<h1 align="center">🧩 Thought Corner</h1>
+<h1 align="center">🧩 Off The Record Wiki</h1>
 <p align="center">생각을 코드로 정리하는 백엔드 개발자입니다.</p>
 <p align="center">"왜 이렇게 동작하는가"를 직접 구현해보며 이해하고,<br>
 부분이 아닌 전체 시스템의 상호작용 관점에서 문제를 바라봅니다.</p>
