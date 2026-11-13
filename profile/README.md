@@ -4,32 +4,32 @@
 부분이 아닌 전체 시스템의 상호작용 관점에서 문제를 바라봅니다.</p>
 
 <p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=java,kotlin"/>
-  </a>
+  <img alt="Java" src="https://img.shields.io/badge/Java-E76F00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&amp;logo=kotlin&amp;logoColor=white" />
 </p>
 <p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=spring,springsecurity,springdatajpa,springbatch,junit"/>
-  </a>
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-43852D?style=flat-square&amp;logo=spring&amp;logoColor=white" />
+  <img alt="Spring Security" src="https://img.shields.io/badge/Spring%20Security-43852D?style=flat-square&amp;logo=springsecurity&amp;logoColor=white" />
+  <img alt="Spring Data JPA" src="https://img.shields.io/badge/Spring%20Data%20JPA-43852D?style=flat-square&amp;logo=spring&amp;logoColor=white" />
+  <img alt="Spring Batch" src="https://img.shields.io/badge/Spring%20Batch-43852D?style=flat-square&amp;logo=spring&amp;logoColor=white" />
+  <img alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&amp;logo=junit5&amp;logoColor=white" />
 </p>
 <p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=kafka"/>
-  </a>
+  <img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&amp;logo=apachekafka&amp;logoColor=white" />
 </p>
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,redis"/><img src="https://raw.githubusercontent.com/thought-corner/.github/main/profile/assets/opensearch.svg" alt="OpenSearch" title="OpenSearch"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&amp;logo=redis&amp;logoColor=white" />
+  <img alt="OpenSearch" src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&amp;logo=opensearch&amp;logoColor=white" />
 </p>
 <p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,docker,kubernetes"/>
-  </a>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-086DD7?style=flat-square&amp;logo=docker&amp;logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&amp;logo=kubernetes&amp;logoColor=white" />
 </p>
 <p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions"/>
-  </a>
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2455A4?style=flat-square&amp;logo=githubactions&amp;logoColor=white" />
 </p>
 
 
