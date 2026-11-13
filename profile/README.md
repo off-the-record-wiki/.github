@@ -21,7 +21,6 @@
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&amp;logo=redis&amp;logoColor=white" />
-  <img alt="OpenSearch" src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&amp;logo=opensearch&amp;logoColor=white" />
 </p>
 <p align="center">
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" />
