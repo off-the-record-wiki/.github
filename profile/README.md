@@ -25,6 +25,8 @@
 </p>
 <p align="center">
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" />
+  <img alt="AWS CDK" src="https://img.shields.io/badge/AWS%20CDK-232F3E?style=flat-square" />
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&amp;logo=terraform&amp;logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-086DD7?style=flat-square&amp;logo=docker&amp;logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&amp;logo=kubernetes&amp;logoColor=white" />
 </p>
