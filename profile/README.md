@@ -1,12 +1,16 @@
 <h1 align="center">🧩 Off The Record Wiki</h1>
+
 <p align="center">생각을 코드로 정리하는 백엔드 개발자입니다.</p>
-<p align="center">"왜 이렇게 동작하는가"를 직접 구현해보며 이해하고,<br>
-부분이 아닌 전체 시스템의 상호작용 관점에서 문제를 바라봅니다.</p>
+<p align="center">
+  "왜 이렇게 동작하는가"를 직접 구현해보며 이해하고,<br>
+  부분이 아닌 전체 시스템의 상호작용 관점에서 문제를 바라봅니다.
+</p>
 
 <p align="center">
   <img alt="Java" src="https://img.shields.io/badge/Java-E76F00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" />
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&amp;logo=kotlin&amp;logoColor=white" />
 </p>
+
 <p align="center">
   <img alt="Spring" src="https://img.shields.io/badge/Spring-43852D?style=flat-square&amp;logo=spring&amp;logoColor=white" />
   <img alt="Spring Security" src="https://img.shields.io/badge/Spring%20Security-43852D?style=flat-square&amp;logo=springsecurity&amp;logoColor=white" />
@@ -14,26 +18,30 @@
   <img alt="Spring Batch" src="https://img.shields.io/badge/Spring%20Batch-43852D?style=flat-square&amp;logo=spring&amp;logoColor=white" />
   <img alt="JUnit" src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&amp;logo=junit5&amp;logoColor=white" />
 </p>
+
 <p align="center">
   <img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&amp;logo=apachekafka&amp;logoColor=white" />
 </p>
+
 <p align="center">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&amp;logo=redis&amp;logoColor=white" />
+  <img alt="Valkey" src="https://img.shields.io/badge/Valkey-5961FF?style=flat-square&amp;logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCIgdmlld0JveD0iLTQgMSA3MCA3MSI%2BPHBhdGggZmlsbD0id2hpdGUiIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTSAxMy41IDYwLjcgTCAxIDUyLjkgTCAxIDE5LjUgTCAzMS41IDIgTCA2MS4zIDE5LjUgTCA2MS4zIDU0LjYgTCAzMS4xIDcxLjcgTCAyMC41IDY1LjEgTCAyMC41IDUxIEwgMjAuNSA0OS4xIEwgMTQuOSA0NS42IEwgMTQuOSAyNy41IEwgMzEuMyAxOCBMIDQ3LjUgMjcuNSBMIDQ3LjUgNDYuNSBMIDM0LjcgNTMuNiBMIDM0LjcgNDYgQyAzOC41IDQ0LjUgNDEuMyA0MC43IDQxLjMgMzYuMyBDIDQxLjMgMzAuNSAzNi43IDI1LjkgMzEuMiAyNS45IEMgMjUuNiAyNS45IDIxIDMwLjUgMjEgMzYuMyBDIDIxIDQwLjcgMjMuOCA0NC41IDI3LjYgNDYgTCAyNy42IDYwLjUgTCAzMS4zIDYyLjggTCA1My42IDUwLjIgTCA1My42IDIzLjkgTCAzMS41IDEwLjkgTCA4LjcgMjQgTCA4LjcgNDguNiBMIDEzLjUgNTEuNiBMIDEzLjUgNjAuNyBaIE0gMzEuMiAzMS41IEMgMzMuNyAzMS41IDM1LjcgMzMuNyAzNS43IDM2LjMgQyAzNS43IDM4LjkgMzMuNyA0MSAzMS4yIDQxIEMgMjguNiA0MSAyNi43IDM4LjkgMjYuNyAzNi4zIEMgMjYuNyAzMy43IDI4LjYgMzEuNSAzMS4yIDMxLjUgWiIvPjwvc3ZnPg%3D%3D" />
   <img alt="OpenSearch" src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&amp;logo=opensearch&amp;logoColor=white" />
 </p>
+
 <p align="center">
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" />
-  <img alt="AWS CDK" src="https://img.shields.io/badge/AWS%20CDK-232F3E?style=flat-square" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&amp;logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP%2BgvaeTAAABMUlEQVQokcXRPUuXARTG4es8PmbWYBSIGPQ22FJIBNUiGIjwj4YGd2kQ60s09A1qysKW5hBJ2iMChaYgqEEaJck0aGgI74aeKCRwiu7lvMHhPr/Df1GSoSRjSfqSHErSdPlgNz/cxdNJRqGSHMFdfME41vAWBzFbVb0kq3iCC/iIe01V7WAJ73ASz3AVV7Cd5BxeYxANnlbVpiS9JI%2BTXEzyprO0nORRkttJFpNMdf3LSVaS9Bp8xSnc6KwfxQds4yWu40WSOUyhxeYvOMMdoLar%2B5Mc2AOmL8nZJEM/4Twwo7yqeRv70l9wXswok5X7Bgy4gzPKiliteeu/X6U8NKJMYNqu5xqX6o9tJ8Qt5RrG8BnBMbzHsu8WtbbE8fIXZUG/XcNapfWpbvq23xn/Xj8AmCaprlIJCGEAAAAASUVORK5CYII%3D" />
+  <img alt="AWS CDK" src="https://img.shields.io/badge/AWS%20CDK-232F3E?style=flat-square&amp;logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP%2BgvaeTAAABVUlEQVQokX2QP0ubcRSFn2siSAaNWCGCs9hZFME/0EHEOjjoJxD8AraDIIj4BVQodCxd7CLd7NwmIJjSUjoGRQQVlyKlYmiNPF1%2BgZfw4oULl4dzuJwDOaNOqDX1izqep%2Bk0PFPfqXV1Sp1O93t18Cnjpvqgbqu9ap%2B6o/5TN7Parg5vAXgNtIDvwDfgb2KFrLCY8/hPROyrdwARsaeuAuVcozoEzAK/1I8ZXgbmgQG1EhE3AF1qt/oKqAIHwAnwFXgJLKS7DnwAauq62k0Kf69OZ76sqI9plzN8Vm2qW6HuAgG8AI6BfmAYaKTyRoAL4DcwCdSAZrvVz8AYUALOgRngJ/ADmErGnqSpZsspRkRLPQMuI0KV1KpqA7iPiMc2LwJHwFu1lMmyCKyl%2BzSbEdgA3rRBRT1Ub9Ur9ZP6XB1Vj9TrtFV1jM5Rl9T5HD6nLqvRZv8BLOgIFgbtOkYAAAAASUVORK5CYII%3D" />
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&amp;logo=terraform&amp;logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-086DD7?style=flat-square&amp;logo=docker&amp;logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&amp;logo=kubernetes&amp;logoColor=white" />
 </p>
+
 <p align="center">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2455A4?style=flat-square&amp;logo=githubactions&amp;logoColor=white" />
 </p>
-
 
 ## 🏗️ Projects
 
